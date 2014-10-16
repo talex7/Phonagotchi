@@ -24,6 +24,8 @@
 		607C5D341985A13300501387 /* default.png in Resources */ = {isa = PBXBuildFile; fileRef = 607C5D311985A13300501387 /* default.png */; };
 		607C5D351985A13300501387 /* sleeping.png in Resources */ = {isa = PBXBuildFile; fileRef = 607C5D321985A13300501387 /* sleeping.png */; };
 		607C5D361985A13300501387 /* grumpy.png in Resources */ = {isa = PBXBuildFile; fileRef = 607C5D331985A13300501387 /* grumpy.png */; };
+		AFEF852A19F082EB00C5C416 /* bucket.png in Resources */ = {isa = PBXBuildFile; fileRef = AFEF852819F082EB00C5C416 /* bucket.png */; };
+		AFEF852B19F082EB00C5C416 /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = AFEF852919F082EB00C5C416 /* apple.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +61,8 @@
 		607C5D311985A13300501387 /* default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = default.png; sourceTree = "<group>"; };
 		607C5D321985A13300501387 /* sleeping.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sleeping.png; sourceTree = "<group>"; };
 		607C5D331985A13300501387 /* grumpy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grumpy.png; sourceTree = "<group>"; };
+		AFEF852819F082EB00C5C416 /* bucket.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bucket.png; sourceTree = "<group>"; };
+		AFEF852919F082EB00C5C416 /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +122,8 @@
 		602CAE461984363700C9FE49 /* Phonagotchi */ = {
 			isa = PBXGroup;
 			children = (
+				AFEF852819F082EB00C5C416 /* bucket.png */,
+				AFEF852919F082EB00C5C416 /* apple.png */,
 				607C5D311985A13300501387 /* default.png */,
 				607C5D321985A13300501387 /* sleeping.png */,
 				607C5D331985A13300501387 /* grumpy.png */,
@@ -244,6 +250,8 @@
 				602CAE541984363800C9FE49 /* Main.storyboard in Resources */,
 				607C5D341985A13300501387 /* default.png in Resources */,
 				607C5D361985A13300501387 /* grumpy.png in Resources */,
+				AFEF852B19F082EB00C5C416 /* apple.png in Resources */,
+				AFEF852A19F082EB00C5C416 /* bucket.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
